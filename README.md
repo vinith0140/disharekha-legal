@@ -1,6 +1,6 @@
-# Career After 12th – legal pages
+# Disharekha – legal pages
 
-Privacy policy and data deletion pages for the Career After 12th app.
+Privacy policy and data deletion pages for the Disharekha app.
 
-- Privacy policy: https://vinith0140.github.io/careerafter12th-legal/
-- Delete your data: https://vinith0140.github.io/careerafter12th-legal/delete-data.html
+- Privacy policy: https://vinith0140.github.io/disharekha-legal/
+- Delete your data: https://vinith0140.github.io/disharekha-legal/delete-data.html
